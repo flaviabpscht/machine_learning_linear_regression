@@ -1,4 +1,4 @@
-# <a>Projeto - Técnicas de Mmchine learning para previsão de tarifas de planos de saúde</a>
+# <a>Projeto - Técnicas de Machine learning para previsão de tarifas de planos de saúde</a>
 # <a>Machine Learning techniques to estimate health plan rates</a>
 
 ## <a> Motivação </a>
