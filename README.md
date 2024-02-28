@@ -1,13 +1,10 @@
-# <a>Projeto - Técnicas de Mmchine learning para previsão de tarifas de planos de saúde</a>
+# <a>Projeto - Técnicas de Machine learning para previsão de tarifas de planos de saúde</a>
 # <a>Machine Learning techniques to estimate health plan rates</a>
-
-## <a> Motivação </a>
 
 Um problema pode ser modelado como sendo uma regressão quando queremos prever um número real, ou, mais tecnicamente: quando queremos prever uma variável contínua.
 
 A ideia desse projeto é iniciar no mundo de machine learning, com separação de bases, avaliação de métricas, uso de cross validation e, finalmente, criação e comparação de modelos preditivos utilizando a biblioteca scikit learn.
 
-## <a> Motivation </a>
 "A problem can be modeled as regression when we want to predict a real number, or, more technically: when we want to predict a continuous variable.
 
 The idea of this project is to dive into the world of machine learning, involving data splitting, metric evaluation, cross-validation usage, and ultimately, creating and comparing predictive models using the scikit-learn library. 
